@@ -1,1 +1,1 @@
-git rm --cached --ignore-unmatch function.h
+git rm --cached --ignore-unmatch Function.h
