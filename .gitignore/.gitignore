@@ -1,1 +1,1 @@
-dsd
+git rm --cached --ignore-unmatch application.yml
