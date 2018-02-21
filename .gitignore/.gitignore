@@ -1,1 +1,1 @@
-git rm --cached --ignore-unmatch application.yml
+git rm --cached --ignore-unmatch function.h
